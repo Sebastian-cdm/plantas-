@@ -18,7 +18,6 @@
 
   <div class="planta">
     <h2>Epazote (Dysphania ambrosioides)</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Epazote_1.jpg" alt="Epazote">
     <ul>
       <li><strong>Riego:</strong> Bajo, 1-2 veces por semana, tolera sequías moderadas.</li>
       <li><strong>Exposición al sol:</strong> Pleno sol, necesita mínimo 6-8 horas diarias para un crecimiento óptimo.</li>
@@ -33,7 +32,6 @@
 
   <div class="planta">
     <h2>Yerbabuena (Mentha spicata)</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Mentha_spicata_-_Köhler%E2%80%93s_Medizinal-Pflanzen-096.jpg" alt="Yerbabuena">
     <ul>
       <li><strong>Riego:</strong> Frecuente, mantener el suelo húmedo sin encharcar; cada 2 días en climas cálidos.</li>
       <li><strong>Exposición al sol:</strong> Sombra parcial o sol filtrado; en zonas cálidas evitar exposición directa.</li>
@@ -48,7 +46,6 @@
 
   <div class="planta">
     <h2>Albahaca (Ocimum basilicum)</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Basil-Basilico-Ocimum_basilicum-albahaca.jpg" alt="Albahaca">
     <ul>
       <li><strong>Riego:</strong> Constante pero moderado, mantener suelo húmedo sin charcos (2-3 veces por semana).</li>
       <li><strong>Exposición al sol:</strong> Sol pleno, ideal entre 6 a 8 horas de luz directa.</li>
@@ -63,7 +60,6 @@
 
   <div class="planta">
     <h2>Manzanilla (Matricaria chamomilla)</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Matricaria_recutita.jpg" alt="Manzanilla">
     <ul>
       <li><strong>Riego:</strong> Moderado, dejar secar el sustrato entre riegos; evitar exceso.</li>
       <li><strong>Exposición al sol:</strong> Sol directo o semisombra en climas calurosos.</li>
@@ -78,7 +74,6 @@
 
   <div class="planta">
     <h2>Habanero (Capsicum chinense)</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Habanero_Chile.jpg" alt="Habanero">
     <ul>
       <li><strong>Riego:</strong> Moderado a alto en etapa de floración y fructificación; suelo húmedo pero sin encharque.</li>
       <li><strong>Exposición al sol:</strong> Pleno sol, mínimo 6 horas diarias, mejor en zonas cálidas.</li>
@@ -93,7 +88,6 @@
 
   <div class="planta">
     <h2>Jalapeño (Capsicum annuum)</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Jalape%C3%B1o_Peppers.jpg" alt="Jalapeño">
     <ul>
       <li><strong>Riego:</strong> Frecuente pero sin exceso, más durante floración y formación de fruto.</li>
       <li><strong>Exposición al sol:</strong> Pleno sol, ideal 7-8 horas diarias.</li>
@@ -105,6 +99,3 @@
     </ul>
     <p class="info-extra">El jalapeño es uno de los chiles más versátiles y comunes en México, puede usarse fresco, seco (chile chipotle) o en conserva.</p>
   </div>
-
-</body>
-</html>
